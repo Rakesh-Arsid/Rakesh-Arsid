@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Rakesh Arsid</h1>
 <h3 align="center">A passionate DATA SCIENTIST from India</h3>
-<img align='right' alt="coding" width="400" src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExb2pqcXhiZnkxdmJvb2wyaWZqODU1bm5jenRlM2NjaXQwNDlod21lbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&tbnid=ITaGGdoGDaxxhM&vet=12ahUKEwik3-e71vL_AhW__DgGHUvlCDQQMygBegUIARCRAg..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammers&docid=p_0abvc3s_D4VM&w=480&h=360&q=animated%20coding%20gif&ved=2ahUKEwik3-e71vL_AhW__DgGHUvlCDQQMygBegUIARCRAg](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)">
+<img align='right' alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-arsid&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh-arsid" /> </p>
@@ -9,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **Python, Excel**
 
